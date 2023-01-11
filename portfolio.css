@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+header{
+    background-image: url("../new-year-new-me/images/banner/banner3.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    max-width: 100%;
+    height: 100vh;
+    padding: 100px 200px;
+    align-items: center;
+}
+.bnr{
+    margin: 150px 0px;
+    font-size:20px;
+    text-align: right;
+    
+    
+}
+.banner{
+    align-items: center;
+    display:right;
+    margin-bottom: 50px;
+}
+.banner-des{
+    font-size: 18px;
+}
+.btn-primary{
+    color:whitesmoke;
+    background-color:orange ;
+    font-weight: 700;
+    height: 44px;
+    font-size: 20px;
+    border: 0;
+    padding: 8px 35px;
+    border-radius: 5px;
+}
+p{
+    margin: 10px;
+}
+button{
+    margin: 10px;
+}
+main{
+     width: 990px;
+height: 300.3px;
+left:256px;
+right: 250px;
+ top: 914px;
+background-color: antiquewhite;
+}
+ .section-title{
+    text-align: right;
+    margin-top: 120px;
+    margin-right: 80px;
+padding-top: 100;
+}
+.para{
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 70px;
+
+}
+.hello{
+ text-align:left ;
+ margin-top: 10px;
+    margin-left: 400px;
+}
+.failure{
+    background-image: url(../new-year-new-me/images/person.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: contain; 
+    margin-left: 200px; 
+   }
+/* icon */
+/* .icon{
+    margin-top: 300;
+} */
+.icon{
+    margin-top: 150px;
+    margin-left: 300px;
+}
+.p-header{
+    /* text-align: center; */
+    margin-left: 260px;
+    margin-bottom: 30px;
+}
+.about-info-container{
+    display:flex;
+    text-align: center;
+    
+}
+.info-title{
+font-size: medium;}
+.info-description{
+    font-size: small;
+}
+.gradient{
+    width: 110%;
+    height: 50vh;
+    border: 8px;
+    background-image: url(../new-year-new-me/images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding-top: 120px;
+
+}
+.mindset{
+ padding-left: 70px;
+ padding-top: 20px;
+ color: white;
+}
+.c-mindset{
+    text-align:center;
+    background-color: antiquewhite;
+    color:orange;
+    margin-left: 70px;
+    font-weight: 500;
+    height: 44px;
+    width: 100px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 0;
+}
+/* contact */
+.contact{
+    display: flex;
+    text-align: left;
+    gap:30px;
+    background-color:aquamarine;
+    margin-top: 50px;
+    margin-left: 80px;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-bottom: 50px;
+}
+.f{
+   margin-left: 10px;
+}
+.contact input{
+    margin-bottom: 20px ;
+    border: 90px ;
+}
